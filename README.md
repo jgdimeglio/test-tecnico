@@ -4,7 +4,7 @@ El proyecto fue realizado con Laravel, Bootstrap, jQuery y MochaJS para hacer te
 
 - En resources/views/welcome.blade se encuentra la vista de la aplicación.
 - La lógica del sistema está en resources/js/sensors.
-- Los test en el directorio resources/js/test.
+- Los test en el directorio resources/js/sensors/test.
 
 ## Ejecutar los tests
 
@@ -14,7 +14,7 @@ Para ejecutar los test instalar
 npm install --global mocha
 ```
 
-Luego en el directorio resources/js ejecutar
+Luego en el directorio resources/js/sensors ejecutar
 
 ```
 npm test
